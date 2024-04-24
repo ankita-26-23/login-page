@@ -31,7 +31,7 @@ function App() {
     }
   }, [])
 
-  //add more
+
   const publicProviderDomains = [
     'gmail.com',
     'outlook.com',
